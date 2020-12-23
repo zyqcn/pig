@@ -56,7 +56,7 @@ pig
 
 ## 文档视频
 
-[文档视频 wiki.pig4cloud.com](https://wiki.pig4cloud.com)
+[文档视频 doc.pig4cloud.com](http://doc.pig4cloud.com)
 
 [PIGX 在线体验 pigx.pig4cloud.com](http://pigx.pig4cloud.com)
 
@@ -66,7 +66,7 @@ pig
 
 ### 本地开发 运行
 
-pig 提供了详细的[部署文档 wiki.pig4cloud.com](https://www.yuque.com/pig4cloud/pig/vsdox9)，包括开发环境安装、服务端代码运行、前端代码运行等。
+pig 提供了详细的[部署文档 doc.pig4cloud.com](http://doc.pig4cloud.com)，包括开发环境安装、服务端代码运行、前端代码运行等。
 
 请务必**完全按照**文档部署运行章节 进行操作，减少踩坑弯路！！
 
