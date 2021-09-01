@@ -95,6 +95,10 @@
 			<artifactId>spring-boot-starter-test</artifactId>
 			<scope>test</scope>
 		</dependency>
+		<properties>
+ 			<sonar.organization>zyqcn</sonar.organization>
+  			<sonar.host.url>https://sonarcloud.io</sonar.host.url>
+		</properties>
 	</dependencies>
 
 	<modules>
